@@ -9,6 +9,6 @@ just download and DO WHAT THE FUCK YOU WANT TO.
 YOU CAN CHANGE STYLE [百度地图API功能在线示例Demo](http://developer.baidu.com/map/jsdemo.htm)
 
 ## Interface
-![](http://7xnb6x.com1.z0.glb.clouddn.com/simpleMap1.png)
+![](http://ww2.sinaimg.cn/large/6cc4d03agw1f6opars9aqj20rs09mac2.jpg)
 
-![](http://7xnb6x.com1.z0.glb.clouddn.com/simpleMap2.png)
+![](http://ww3.sinaimg.cn/large/6cc4d03agw1f6opbd3lzaj20rs09ndhy.jpg)
