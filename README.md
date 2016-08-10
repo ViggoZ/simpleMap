@@ -9,5 +9,3 @@ YOU CAN CHANGE STYLE [百度地图API功能在线示例Demo](http://developer.ba
 just download and DO WHAT THE FUCK YOU WANT TO.
 
 ## Interface
-![](http://7xnb6x.com1.z0.glb.clouddn.com/simpleMap1.png)
-![](http://7xnb6x.com1.z0.glb.clouddn.com/simpleMap2.png)
